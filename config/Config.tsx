@@ -5,13 +5,13 @@ import { getDatabase } from "firebase/database";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAJhfENLWzFo7RCiGXdThovD_REkXz92-Y",
-  authDomain: "movilesapp-fb56e.firebaseapp.com",
-  databaseURL: "https://movilesapp-fb56e-default-rtdb.firebaseio.com",
-  projectId: "movilesapp-fb56e",
-  storageBucket: "movilesapp-fb56e.firebasestorage.app",
-  messagingSenderId: "704458714145",
-  appId: "1:704458714145:web:91cd0ea76df02f9ed7c760"
+  apiKey: "AIzaSyD0vhBqlEwO9SdqS2KCsNKARNOdNmmXklc",
+  authDomain: "plataformaeducativa-e7a1c.firebaseapp.com",
+  projectId: "plataformaeducativa-e7a1c",
+  storageBucket: "plataformaeducativa-e7a1c.firebasestorage.app",
+  messagingSenderId: "299675403002",
+  appId: "1:299675403002:web:b0a3b4c927242c5be9ff43",
+  measurementId: "G-290KNMS9XR"
 };
 
 // Initialize Firebase
